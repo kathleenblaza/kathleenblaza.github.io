@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="Stylesheets.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Dyanne Kathleen A. Blaza</p>
+			<a href="mailto:dyanneblaza@yahoo.com">
+			<p id="email">dyanneblaza@yahoo.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>To take a position as a graphic designer.</p>
+			<h4>Experience</h4>
+			<p>Digital Artist</p>
+			<ul>
+				<li>Designed logo for CITCS of the University of the Cordilleras.</li>
+				<li>Vector Arts Maker.</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Adobe Photoshop Expert</p>
+			<p>Adobe Illustrator Expert</p>
+			<h4>Education</h4>
+			<p>BS Computer Science</p>
+			<ul>
+				<li>Award for best senior thesis</li>
+				<li>GPA: 88</li>
+			</ul>
+		</div>
+		<div id="footer">
+			<p>Baddec-Palao, Bangued, Abra| Tel:09364406892</p>
+		</div>
+	</body>
+</html>
